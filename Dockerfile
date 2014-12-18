@@ -1,4 +1,4 @@
-FROM bthuillier/docker-archlinux-clj
+FROM bthuillier/leiningen:latest
 
 RUN mkdir /project
 
