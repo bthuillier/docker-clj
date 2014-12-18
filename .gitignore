@@ -8,3 +8,6 @@ pom.xml
 /.lein-*
 /.env
 *.log
+resources/public/js/out/*
+resources/public/js/app.js
+resources/public/js/out.js.map
