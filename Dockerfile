@@ -1,4 +1,4 @@
-FROM bthuillier/leiningen:latest
+FROM bthuillier/leiningen
 
 ENV PORT 8080
 
