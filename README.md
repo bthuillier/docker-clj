@@ -1,19 +1,5 @@
 # docker-clj
 
-FIXME
+It a test project for testing docker deploiement on [CleverCloud][1] but it can run on any Cloud Provider with a Docker support
 
-## Prerequisites
-
-You will need [Leiningen][1] 2.0 or above installed.
-
-[1]: https://github.com/technomancy/leiningen
-
-## Running
-
-To start a web server for the application, run:
-
-    lein ring server
-
-## License
-
-Copyright © 2014 FIXME
+[1]: https://www.clever-cloud.com/en/
